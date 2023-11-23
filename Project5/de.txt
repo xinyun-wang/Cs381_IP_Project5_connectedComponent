@@ -1,0 +1,14 @@
+Entering Distance8() method.
+Entering distance8pass1() method.
+levaing distance8pass1() method.
+Entering distance8pass1() method.
+levaing distance8pass2() method.
+leaving Distance8() method.
+Entering imageCompression() method
+leaving imageCompression() method.
+Entering imageDeCompression() method
+Entering expansionPass1() method.
+levaing expansionPass1() method.
+Entering expansionPass2() method.
+levaing expansionPass2() method.
+leaving imageDeCompression() method.
